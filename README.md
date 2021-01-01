@@ -22,7 +22,7 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://github.com/botolvau/bvai
+$ git clone https://github.com/Shahin3010/Shahinvau.git
 ```
 
 ## Tools Run :
@@ -31,7 +31,7 @@ $ ls && cd bvai && ls
 $ python2 bvai.py
 ```
 
-* Tools Username / Passwords : https://www.facebook.com/groups/231747098048450/permalink/275501883672971/
+* Tools Username / Passwords : https://www.facebook.com/Shahin.71vau/
 
 
 ## ***Follow Me***
