@@ -3,7 +3,7 @@
 </p>
 <p align="center"><a href="#"><img title="bvai" src="https://user-images.githubusercontent.com/64999484/89707580-4f2c2580-d991-11ea-8960-3c6f9e46765f.png"></a>
 <p align="center"><a href="https://github.com/bootolvau"><img title="Author" src="https://img.shields.io/badge/Author-Botol--Vau-red.svg?style=for-the-badge&logo=github"></a></p>
-<p align="center"><a href="https://github.com/botolvau/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a> <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
+<p align="center"><a href="https://github.com/botolvau/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img titlhttps://www.facebook.com/Shahin.71vau/"></a> <a href="https://https://www.facebook.com/Shahin.71vau/"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
 
 <h1 align="center">bvai v1.0</h1>
 <p align="center">      FACEBOOK ACCOUNT CLONER TOOL FOR TERMUX USERS</p>
@@ -36,14 +36,7 @@ $ python2 bvai.py
 
 ## ***Follow Me***
 
-* Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-* Website : [Visit Now](http://www.mastertrick.design)
-* Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-* Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-* Telegram : [Join Now](https://t.me/mastertrick2)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-* Twitter : [Follow Me](https://www.twitter.com/botolbaba)
-* GitHub : [Follow Me](https://www.github.com/Botolvau)
+* Facebook : [follow now]https://www.facebook.com/Shahin.71vau/
 
 ### Warning
 
